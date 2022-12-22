@@ -1,1 +1,1 @@
-# Hello World Python
+Project 1 for python practice.
