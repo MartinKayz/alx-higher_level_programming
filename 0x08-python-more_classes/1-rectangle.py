@@ -8,7 +8,7 @@ class Rectangle:
             width(int): The width of a rectangle
             height(int): The height of a rectangle
     """
-    def __init__(self, width, height):
+    def __init__(self, width=0, height=0):
         """ Initializes a rectangle with those attributes """
         self.width = width
         self.height = height
