@@ -62,6 +62,6 @@ class Rectangle:
         return "\n".join(rows)
 
     def __repr__(self):
-        """ Returns the caconical repressentation 
+        """ Returns the caconical repressentation
             of the rectangle object as #'s """
         return f"Rectangle({self.__width}, {self.__height})"
