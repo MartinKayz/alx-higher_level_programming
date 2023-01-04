@@ -66,7 +66,6 @@ class Rectangle:
             of the rectangle object as #'s """
         return f"Rectangle({self.__width}, {self.__height})"
 
-    
     def __del__(self):
+        """ Alerts when object is being deleted """
         print("Bye rectangle...")
-
